@@ -1,0 +1,28 @@
+i{
+    color: orange;
+}
+span{
+    color: rgb(165, 102, 25);
+}
+.card{
+    height: 500px;
+    width: 400px;
+    border-radius: 30px;
+    border: 3px solid black;
+    padding: 10px;
+}
+img{
+    height: 200px;
+    width: 390px;
+    border-radius: 30px;
+    margin: 5px 5px 5px 5px;
+
+}
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+h4 {
+    text-align: right;
+    color: #3c787e;
+  }
