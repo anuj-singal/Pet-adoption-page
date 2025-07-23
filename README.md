@@ -38,4 +38,5 @@ Pet-adoption-page/
 
 ## ✍️ Author
 Anuj Singal
+```bash
 GitHub - @anuj-singal
