@@ -12,7 +12,7 @@ Pet-adoption-page/
 ├── cat.png            # Cat image
 ├── screenshot.png     # Screenshot for README
 └── README.md          # Project documentation
-
+```
 
 ## ✨ Features
 
@@ -38,4 +38,4 @@ Pet-adoption-page/
 
 ## ✍️ Author
 Anuj Singal
-GitHub Profile
+GitHub - @anuj-singal
