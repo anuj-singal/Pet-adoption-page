@@ -3,13 +3,16 @@
 This is a basic static **HTML** and **CSS** webpage designed to showcase a pet adoption landing page. The page includes a simple layout, visual styling, and images of a dog and a cat.
 
 ## 📁 Project Structure
+
+```text
 Pet-adoption-page/
-├── index.html # Main HTML file
-├── style.css # Main CSS stylesheet
-├── dog.png # Dog image
-├── cat.png # Cat image
-├── screenshot.png # Preview screenshot
-└── README.md # Project documentation
+├── index.html         # Main HTML file
+├── style.css          # CSS stylesheet
+├── dog.png            # Dog image
+├── cat.png            # Cat image
+├── screenshot.png     # Screenshot for README
+└── README.md          # Project documentation
+
 
 ## ✨ Features
 
