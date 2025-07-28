@@ -40,3 +40,4 @@ Pet-adoption-page/
 Anuj Singal
 ```bash
 GitHub - @anuj-singal
+Linkedin - @anujsingal
